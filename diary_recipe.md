@@ -25,7 +25,7 @@ I want to see a list of all of the mobile phone numbers in all my diary entries
 
 * Main class diary
 * Secondary class diary entry - may need option for mobile phone numbers in this class
-* Secondary class todo list
+* Secondary class todo list which will need a todo class to support
 
 
 ## 2. Design the Class System
